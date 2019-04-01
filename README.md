@@ -1,2 +1,2 @@
 # tipsBackup
-something should make tips and backup 
+Some tips we can reuse 
